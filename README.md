@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-I am a Computer Science and Engineering graduate specializing in Data Science, with a passion for technology, data, and continuous learning. I have hands-on knowledge of Python, R, MySQL, Excel, Power BI, and Tableau, along with an understanding of Artificial Intelligence, Machine Learning, and Cloud Computing. I enjoy working with data, solving problems, and turning information into meaningful insights. Beyond my current skill set, I am curious to explore new technologies and continuously develop my capabilities through new challenges and real-world experiences. Currently, I am looking for opportunities in Data Science, Data Analytics, and other technology roles where I can apply my skills, contribute to meaningful work, and continue growing professionally.<br><br>Let’s connect, learn, and grow together.
+I am a Computer Science and Engineering graduate specializing in Data Science, with a passion for technology, data, and continuous learning. I have hands-on knowledge of Python, R, MySQL, Excel, Power BI, and Tableau, along with an understanding of Artificial Intelligence, Machine Learning, and Cloud Computing. I enjoy working with data, solving problems, and turning information into meaningful insights. Beyond my current skill set, I am curious to explore new technologies and continuously develop my capabilities through new challenges and real-world experiences. Currently, I am looking for opportunities in Data Science, Data Analytics, and other technology roles where I can apply my skills, contribute to meaningful work, and continue growing professionally.<br>Let’s connect, learn, and grow together.
 
 ## 🌐 Socials:
 
